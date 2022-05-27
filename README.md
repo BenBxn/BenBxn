@@ -1,4 +1,4 @@
-#### 📃 Hoy Bienvenue! 😃
+#### 📃 Hey Bienvenue! 😃
 #### Je suis Benoit, passionné par les arts graphiques et le développement. Je souhaite en faire mon métier. 
 
 🖥️ En Formation depuis le 17 mars 2022 chez OpenClassRooms sur le parcours **Développeur Web** 💻
