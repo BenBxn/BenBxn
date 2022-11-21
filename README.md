@@ -1,9 +1,10 @@
 #### 📃 Hey Bienvenue! 😃
 #### Je suis Benoit, passionné par les arts graphiques et le développement. Je souhaite en faire mon métier. 
 
-🖥️ En Formation depuis le 17 mars 2022 chez OpenClassRooms sur le parcours **Développeur Web** 💻
-
+🖥️ Formation OpenClassRooms sur le parcours **Développeur Web** 💻 03/2022 - 11/2022 📆
+ - Diplôme RNCP niveau 5 (Bac +2)   
 Toutes les informations sur la formation [Ici](https://openclassrooms.com/fr/paths/556-developpeur-web)
+
 
 <!--
 **BenBxn/BenBxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
