@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 - ⚡ Aujourd'hui, je souhaite mettre mes compétences à votre disposition et vous apporter mes savoirs, mon goût du travail en équipe et ma créativité.
 
-- 🚀 Passionné par les arts graphiques et le développement, <strong>je recherche une entreprise qui m'accueillera dans le cadre d'une alternance "création numérique", d'une durée de 12 mois avec le rythme 4 jours/semaine en entreprise.</strong>
+- 🚀 Passionné par les arts graphiques et le développement, je suis constamment à la recherche de nouvelles façons de combiner mes deux intérêts pour créer des projets innovants et visuellement captivants. 
+<!-- <strong>je recherche une entreprise qui m'accueillera dans le cadre d'une alternance "création numérique", d'une durée de 12 mois avec le rythme 4 jours/semaine en entreprise.</strong> -->
 
 
 
@@ -48,11 +49,11 @@ Toutes les informations sur la formation [Ici](https://openclassrooms.com/fr/pat
 
 <br/>
 
-🎨 Bachelor 3 parcours **Création Numérique** 💻 07/2023 - 06/2024 📆
+<!-- 🎨 Bachelor 3 parcours **Création Numérique** 💻 07/2023 - 06/2024 📆
  - Diplôme RNCP niveau 6 (Bac +3)   
 **Je recherche une entreprise dans le cadre d'une alternance "création numérique", d'une durée de 12 mois avec le rythme 4 jours/semaine.
 Date d'entrée : septembre 2023, il est possible de commencer dans l'entreprise à partir du mois de Juillet.**
-
+-->
 
 ##
 ## Langages & outils :
